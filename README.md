@@ -7,6 +7,7 @@
 ### ue4.26
 ### Adobe Substance 3D Painter2020+
 
+![image](https://github.com/user-attachments/assets/6645370f-6279-4d79-8a52-5e80f228f306)
 # 使用说明
 ## blender和pt交互(opengl坐标系)
 1安装插件导入高模
@@ -40,6 +41,7 @@
 3ue中一键导入模型以及材质
 ![image](https://github.com/user-attachments/assets/2e13f302-d16f-46fe-b09b-ede21297f199)
 ![image](https://github.com/user-attachments/assets/b2f8fd11-eadc-4151-84eb-e30267abab07)
+![image](https://github.com/user-attachments/assets/d3fd3dcc-83e6-400c-8573-b8483a841032)
 
 
 
