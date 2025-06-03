@@ -7,6 +7,10 @@
 ### ue4.26
 ### Adobe Substance 3D Painter2020+
 
+# 视频教程（打通ue-blender-pt一键上色一键做动画）
+https://www.bilibili.com/video/BV1qg7uzEE1M/
+https://www.bilibili.com/video/BV1Li7YzUEdY/
+
 ![image](https://github.com/user-attachments/assets/6645370f-6279-4d79-8a52-5e80f228f306)
 # 使用说明
 ## blender和pt交互(opengl坐标系)
