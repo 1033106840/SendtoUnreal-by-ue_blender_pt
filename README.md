@@ -1,6 +1,6 @@
-# ue_blender_pt
+# ue_blender_pt(Send to Unreal)
 ## quick connect UE,blender,pt(sp)
-## 快速桥接ue,blender,sp简化游戏开发步骤
+## 快速桥接ue,blender,pt(sp)简化游戏开发步骤
 ## 解放双手，不用处理考虑细节设置，插件全自动处理模型、tga游戏材质、新增游戏动画(动画序列、根动画、附加动画等等)
 
 # environment(稳定环境)
