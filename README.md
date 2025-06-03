@@ -4,9 +4,9 @@
 ## 解放双手，不用处理考虑细节设置，插件全自动处理模型、tga游戏材质、新增游戏动画(动画序列、根动画、附加动画等等)
 
 # environment(稳定环境)
-### blender4.3
-### ue4.26
-### Adobe Substance 3D Painter2020+
+### blender 4.3+
+### ue 4.26+
+### Adobe Substance 3D Painter 2020+
 
 # 视频教程（打通ue-blender-pt一键上色一键做动画）
 ### https://www.bilibili.com/video/BV1qg7uzEE1M/
